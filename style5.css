@@ -1,0 +1,98 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    Margin: 0px;
+    background-color:#F0FFFF;
+}
+
+header{
+    Padding:35px; 
+    background:#ffeabf;
+}
+
+header h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center;
+    font-size:75px;
+}
+h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center;
+}
+nav{
+    background: black;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration:none;
+    color:white;
+    font-size:200%;
+    text-align:center;
+    padding:20px;
+    float:left;
+}
+.td{
+    padding:20px;
+    margin: 20px;
+    background:#ffeabf;
+    border:1px solid lightgrey;
+    border-radius:4px ;
+}
+.td p{
+    text-align:center;
+    
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 400px;
+
+}
+#mail {
+    text-decoration:none;
+    font-size:80%;
+    text-align:right;
+}
+#mail img{
+    width:30%;
+    padding:30px;
+}
+footer{
+    background: black;
+    overflow:hidden;
+    height: 250%;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    padding:20px;
+    font-size:200%;
+}
+
+h3{
+    text-align:center;
+}
+.Follow{}
+.Follow a img{
+    width:10%;
+}
+.insta{
+    margin: 60px;
+}
+.facebook{
+    margin: 60px;
+}
+.twitter{
+    margin: 60px;
+}
+.quora{
+    margin: 60px;
+}

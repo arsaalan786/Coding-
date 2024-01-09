@@ -1,0 +1,120 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    Margin: 0px;
+    background-color:#F0FFFF;
+}
+
+header{
+    Padding:35px; 
+    background:#ffeabf;
+}
+header h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center;
+    font-size:75px;
+    }
+h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center;
+}
+
+nav{
+    background: black;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration:none;
+    color:white;
+    font-size:200%;
+    text-align:center;
+    padding:20px;
+    float:left;
+}
+.intro{
+    height:150px;
+    background: #ffeabf;
+}
+.intro p{
+    font-size:300%;
+    text-align:center;
+   }
+.container{
+    height:1300px;
+    background: #2F4F4F;
+}   
+.container h1{
+    color:White;
+    font-size:300%;
+    font-weight:Bold;
+}
+fieldset{
+    font-family:Verdana;
+    background: #F0FFF0;
+    Margin:30px;
+    font-size:300%;
+    border-radius: 30px;
+}
+input[type=text] {
+    font-size:100%;
+    width:100%;
+}
+input[type=email] {
+    font-size:100%;
+    width:100%;
+}
+input[type=password] {
+    font-size:100%;
+    width:100%;
+}
+input[type=number] {
+    font-size:100%;
+    width:100%;
+}
+input[type=submit] {
+    background:Green;
+    font-size:100%;
+    font-weight:bold;
+    width:100%;
+    border-radius: 300px;
+    color:white;
+}
+
+footer{
+    background: black;
+    overflow:hidden;
+    height: 250%;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    padding:20px;
+    font-size:200%;
+}
+
+.Follow{}
+.Follow h3{
+    font-size:300%;
+    text-align:center;
+}
+.Follow a img{
+    width:10%;
+}
+.insta{
+    margin: 60px;
+}
+.facebook{
+    margin: 60px;
+}
+.twitter{
+    margin: 60px;
+}
+.quora{
+    margin: 60px;
+}

@@ -1,0 +1,96 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    Margin: 0px;
+    background-color:#F0FFFF;
+}
+
+header{
+    Padding:35px; 
+    background:#ffeabf;
+}
+
+h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center;
+    font-size:75px;
+}
+
+nav{
+    background: black;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration:none;
+    color:white;
+    font-size:200%;
+    text-align:center;
+    padding:20px;
+    float:left;
+}
+
+
+h2{
+    text-align:center;
+    color:#F5FFFA;
+}
+h4{
+    text-align:center;
+}
+
+.mainblog{
+    background:#F0FFF0;
+    margin:20px;
+    padding:5px 20px 15px 20px;
+    border:1px solid lightgrey;
+    border-radius:4px ;
+}
+.mainblog p{
+    text-align: center;
+}
+.blogimg{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+footer{
+    background: black;
+    overflow:hidden;
+    height: 250%;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    padding:20px;
+    font-size:200%;
+}
+h3{
+    text-align:center;
+}
+.Follow{}
+.Follow a img{
+    width:10%;
+}
+.insta{
+    margin: 60px;
+}
+.facebook{
+    margin: 60px;
+}
+.twitter{
+    margin: 60px;
+}
+.quora{
+    margin: 60px;
+}
+.Blogday{
+    background:#2F4F4F;
+    border:1px solid lightgrey;
+    border-radius:4px ;
+}

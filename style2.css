@@ -1,0 +1,81 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    Margin: 0px;
+    background-color:#F0FFFF;
+}
+
+header{
+    Padding:35px; 
+    background:#ffeabf;
+}
+header h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center;
+    font-size:75px;
+    }
+h1{
+    color: black;
+    font-family:Italic bold;
+    text-align:center; 
+}
+
+nav{
+    background: black;
+    overflow: hidden;
+}
+
+nav a{
+    text-decoration:none;
+    color:white;
+    font-size:200%;
+    text-align:center;
+    padding:20px;
+    float:left;
+}
+.ctg{
+    padding:20px;
+    margin: 20px;
+    background:#ffeabf;
+    border:1px solid lightgrey;
+    border-radius:4px ;
+}
+.ctg li{
+    font-size:200%;
+    color:black;
+    
+}
+footer{
+    background: black;
+    overflow:hidden;
+    height: 250%;
+}
+footer a{
+    text-decoration:none;
+    color:white;
+    text-align:center;
+    padding:20px;
+    font-size:200%;
+}
+h3{
+    text-align:center;
+}
+.Follow{}
+.Follow a img{
+    width:10%;
+}
+.insta{
+    margin: 60px;
+}
+.facebook{
+    margin: 60px;
+}
+.twitter{
+    margin: 60px;
+}
+.quora{
+    margin: 60px;
+}
